@@ -1,0 +1,16 @@
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.exe
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.deps.json
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.runtimeconfig.json
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.runtimeconfig.dev.json
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.dll
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\bin\Debug\netcoreapp3.1\ApkInstaller.pdb
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.csproj.AssemblyReference.cache
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.csproj.GenerateResource.cache
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.AssemblyInfoInputs.cache
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.AssemblyInfo.cs
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.dll
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.pdb
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.genruntimeconfig.cache
+C:\Users\Sean\Desktop\Projects\ApkInstaller\ApkInstaller\obj\Debug\netcoreapp3.1\ApkInstaller.Form1.resources
